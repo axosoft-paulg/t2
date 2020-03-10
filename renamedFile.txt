@@ -1,4 +1,4 @@
-foooooossshortcut
+foooooossshortcutmerge2
 changedsf
 foooooooooooo
 PR change test extraf
@@ -8,3 +8,4 @@ ghk
 fdsfds foo
 for the squash
 for the big squash  
+this a conflict
